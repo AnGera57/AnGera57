@@ -1,16 +1,62 @@
-## Hi there 👋
+### Привет! 👋
 
-<!--
-**AnGera57/AnGera57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ Обо мне за 30 секунд ✨ 
+* 🎓 Образование:
+  - ГУ УНПК (бакалавр) - Биотехнология;
+  - ОГУ (магистр) - Промышленная биотехнология в фармации
+  - Skillfactory: Курс "Data Science"
+* 
+*  
+* 
+* 
 
-Here are some ideas to get you started:
+### 📚 Проекты 📚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Кликни [сюда]() чтобы посмотреть мои проекты
+
+### 💡 Основные компетенции 💡
+- Инструменты: 
+- Skills: 
+    * 
+    * 
+    * 
+
+### ⚡️ В настоящее время ⚡️
+- Прохожу обучение профессии Data Scientist в школе Skillfaktory
+- 
+- 
+- 
+
+### 🙌🏻 Свяжись со мной
+- [Telegram](+79202877938)
+
+---
+
+### Hello! 👋
+
+### ✨ About me in 30 seconds ✨ 
+* 🎓 Education:
+- GU UNPC (Bachelor's degree) - Biotechnology;
+  - OSU (Master's degree) - Industrial Biotechnology in Pharmacy
+- Skillfactory: Data Science Course
+* 
+* 
+* 
+* 
+
+### 💡 Core competencies 💡
+- Tools: 
+  - Skills:
+    * 
+    * 
+    * 
+
+
+### ⚡️ Currently ⚡️
+- I am studying to become a Data Scientist at the Skillfaktory school
+- 
+- 
+- 
+
+### 🙌🏻 Contact me
+- [Telegram](+79202877938)
